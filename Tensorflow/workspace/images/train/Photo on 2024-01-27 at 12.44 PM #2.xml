@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Photo on 2024-01-27 at 12.44 PM #2.jpg</filename>
+	<path>/Users/darshshah/Downloads/Darsh/codes_current/Visual_Studio_Code/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/Photo on 2024-01-27 at 12.44 PM #2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thank You</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>446</xmin>
+			<ymin>445</ymin>
+			<xmax>1105</xmax>
+			<ymax>749</ymax>
+		</bndbox>
+	</object>
+</annotation>
